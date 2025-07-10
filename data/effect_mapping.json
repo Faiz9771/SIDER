@@ -1,0 +1,602 @@
+{
+  "0": {
+    "effect_id": 0,
+    "meddra_id": "C0000727",
+    "name": "Acute Abdomen",
+    "description": "Acute Abdomen (MEDDRA: C0000727)"
+  },
+  "1": {
+    "effect_id": 1,
+    "meddra_id": "C0000729",
+    "name": "Abdominal Pain",
+    "description": "Abdominal Pain (MEDDRA: C0000729)"
+  },
+  "2": {
+    "effect_id": 2,
+    "meddra_id": "C0000731",
+    "name": "Abdominal Distension",
+    "description": "Abdominal Distension (MEDDRA: C0000731)"
+  },
+  "3": {
+    "effect_id": 3,
+    "meddra_id": "C0000735",
+    "name": "Abdominal Neoplasm",
+    "description": "Abdominal Neoplasm (MEDDRA: C0000735)"
+  },
+  "4": {
+    "effect_id": 4,
+    "meddra_id": "C0000737",
+    "name": "Gastrointestinal Pain",
+    "description": "Gastrointestinal Pain (MEDDRA: C0000737)"
+  },
+  "5": {
+    "effect_id": 5,
+    "meddra_id": "C0000768",
+    "name": "Congenital Anomaly",
+    "description": "Congenital Anomaly (MEDDRA: C0000768)"
+  },
+  "6": {
+    "effect_id": 6,
+    "meddra_id": "C0000772",
+    "name": "Multiple Congenital Abnormalities",
+    "description": "Multiple Congenital Abnormalities (MEDDRA: C0000772)"
+  },
+  "7": {
+    "effect_id": 7,
+    "meddra_id": "C0000786",
+    "name": "Abortion Spontaneous",
+    "description": "Abortion Spontaneous (MEDDRA: C0000786)"
+  },
+  "8": {
+    "effect_id": 8,
+    "meddra_id": "C0000814",
+    "name": "Abortion Missed",
+    "description": "Abortion Missed (MEDDRA: C0000814)"
+  },
+  "9": {
+    "effect_id": 9,
+    "meddra_id": "C0000817",
+    "name": "Abortion Infected",
+    "description": "Abortion Infected (MEDDRA: C0000817)"
+  },
+  "10": {
+    "effect_id": 10,
+    "meddra_id": "C0000832",
+    "name": "Premature Separation Of Placenta",
+    "description": "Premature Separation Of Placenta (MEDDRA: C0000832)"
+  },
+  "11": {
+    "effect_id": 11,
+    "meddra_id": "C0000833",
+    "name": "Abscess",
+    "description": "Abscess (MEDDRA: C0000833)"
+  },
+  "12": {
+    "effect_id": 12,
+    "meddra_id": "C0000889",
+    "name": "Acanthosis Nigricans",
+    "description": "Acanthosis Nigricans (MEDDRA: C0000889)"
+  },
+  "13": {
+    "effect_id": 13,
+    "meddra_id": "C0000924",
+    "name": "Accident",
+    "description": "Accident (MEDDRA: C0000924)"
+  },
+  "14": {
+    "effect_id": 14,
+    "meddra_id": "C0000932",
+    "name": "Road Traffic Accident",
+    "description": "Road Traffic Accident (MEDDRA: C0000932)"
+  },
+  "15": {
+    "effect_id": 15,
+    "meddra_id": "C0001122",
+    "name": "Acidosis",
+    "description": "Acidosis (MEDDRA: C0001122)"
+  },
+  "16": {
+    "effect_id": 16,
+    "meddra_id": "C0001125",
+    "name": "Lactic Acidosis",
+    "description": "Lactic Acidosis (MEDDRA: C0001125)"
+  },
+  "17": {
+    "effect_id": 17,
+    "meddra_id": "C0001126",
+    "name": "Renal Tubular Acidosis",
+    "description": "Renal Tubular Acidosis (MEDDRA: C0001126)"
+  },
+  "18": {
+    "effect_id": 18,
+    "meddra_id": "C0001127",
+    "name": "Respiratory Acidosis",
+    "description": "Respiratory Acidosis (MEDDRA: C0001127)"
+  },
+  "19": {
+    "effect_id": 19,
+    "meddra_id": "C0001144",
+    "name": "Acne",
+    "description": "Acne (MEDDRA: C0001144)"
+  },
+  "20": {
+    "effect_id": 20,
+    "meddra_id": "C0001175",
+    "name": "Acquired Immunodeficiency Syndrome",
+    "description": "Acquired Immunodeficiency Syndrome (MEDDRA: C0001175)"
+  },
+  "21": {
+    "effect_id": 21,
+    "meddra_id": "C0001198",
+    "name": "Acrodynia",
+    "description": "Acrodynia (MEDDRA: C0001198)"
+  },
+  "22": {
+    "effect_id": 22,
+    "meddra_id": "C0001206",
+    "name": "Acromegaly",
+    "description": "Acromegaly (MEDDRA: C0001206)"
+  },
+  "23": {
+    "effect_id": 23,
+    "meddra_id": "C0001231",
+    "name": "Ectopic Acth Syndrome",
+    "description": "Ectopic Acth Syndrome (MEDDRA: C0001231)"
+  },
+  "24": {
+    "effect_id": 24,
+    "meddra_id": "C0001339",
+    "name": "Pancreatitis Acute",
+    "description": "Pancreatitis Acute (MEDDRA: C0001339)"
+  },
+  "25": {
+    "effect_id": 25,
+    "meddra_id": "C0001349",
+    "name": "Acute Phase Reaction",
+    "description": "Acute Phase Reaction (MEDDRA: C0001349)"
+  },
+  "26": {
+    "effect_id": 26,
+    "meddra_id": "C0001361",
+    "name": "Acute Tonsillitis",
+    "description": "Acute Tonsillitis (MEDDRA: C0001361)"
+  },
+  "27": {
+    "effect_id": 27,
+    "meddra_id": "C0001364",
+    "name": "Acute Yellow Liver Atrophy",
+    "description": "Acute Yellow Liver Atrophy (MEDDRA: C0001364)"
+  },
+  "28": {
+    "effect_id": 28,
+    "meddra_id": "C0001396",
+    "name": "Adams-stokes Syndrome",
+    "description": "Adams-stokes Syndrome (MEDDRA: C0001396)"
+  },
+  "29": {
+    "effect_id": 29,
+    "meddra_id": "C0001403",
+    "name": "Addison's Disease",
+    "description": "Addison's Disease (MEDDRA: C0001403)"
+  },
+  "30": {
+    "effect_id": 30,
+    "meddra_id": "C0001416",
+    "name": "Lymphadenitis",
+    "description": "Lymphadenitis (MEDDRA: C0001416)"
+  },
+  "31": {
+    "effect_id": 31,
+    "meddra_id": "C0001418",
+    "name": "Adenocarcinoma",
+    "description": "Adenocarcinoma (MEDDRA: C0001418)"
+  },
+  "32": {
+    "effect_id": 32,
+    "meddra_id": "C0001430",
+    "name": "Adenoma Benign",
+    "description": "Adenoma Benign (MEDDRA: C0001430)"
+  },
+  "33": {
+    "effect_id": 33,
+    "meddra_id": "C0001486",
+    "name": "Adenovirus Infection",
+    "description": "Adenovirus Infection (MEDDRA: C0001486)"
+  },
+  "34": {
+    "effect_id": 34,
+    "meddra_id": "C0001511",
+    "name": "Adhesion",
+    "description": "Adhesion (MEDDRA: C0001511)"
+  },
+  "35": {
+    "effect_id": 35,
+    "meddra_id": "C0001546",
+    "name": "Adjustment Disorder",
+    "description": "Adjustment Disorder (MEDDRA: C0001546)"
+  },
+  "36": {
+    "effect_id": 36,
+    "meddra_id": "C0001621",
+    "name": "Adrenal Disorder",
+    "description": "Adrenal Disorder (MEDDRA: C0001621)"
+  },
+  "37": {
+    "effect_id": 37,
+    "meddra_id": "C0001622",
+    "name": "Hyperadrenocorticism",
+    "description": "Hyperadrenocorticism (MEDDRA: C0001622)"
+  },
+  "38": {
+    "effect_id": 38,
+    "meddra_id": "C0001623",
+    "name": "Adrenal Insufficiency",
+    "description": "Adrenal Insufficiency (MEDDRA: C0001623)"
+  },
+  "39": {
+    "effect_id": 39,
+    "meddra_id": "C0001707",
+    "name": "Aerophagia",
+    "description": "Aerophagia (MEDDRA: C0001707)"
+  },
+  "40": {
+    "effect_id": 40,
+    "meddra_id": "C0001733",
+    "name": "Factor I Deficiency",
+    "description": "Factor I Deficiency (MEDDRA: C0001733)"
+  },
+  "41": {
+    "effect_id": 41,
+    "meddra_id": "C0001807",
+    "name": "Aggression",
+    "description": "Aggression (MEDDRA: C0001807)"
+  },
+  "42": {
+    "effect_id": 42,
+    "meddra_id": "C0001816",
+    "name": "Agnosia",
+    "description": "Agnosia (MEDDRA: C0001816)"
+  },
+  "43": {
+    "effect_id": 43,
+    "meddra_id": "C0001818",
+    "name": "Agoraphobia",
+    "description": "Agoraphobia (MEDDRA: C0001818)"
+  },
+  "44": {
+    "effect_id": 44,
+    "meddra_id": "C0001824",
+    "name": "Agranulocytosis",
+    "description": "Agranulocytosis (MEDDRA: C0001824)"
+  },
+  "45": {
+    "effect_id": 45,
+    "meddra_id": "C0001849",
+    "name": "Aids Dementia Complex",
+    "description": "Aids Dementia Complex (MEDDRA: C0001849)"
+  },
+  "46": {
+    "effect_id": 46,
+    "meddra_id": "C0001883",
+    "name": "Obstructive Airways Disorder",
+    "description": "Obstructive Airways Disorder (MEDDRA: C0001883)"
+  },
+  "47": {
+    "effect_id": 47,
+    "meddra_id": "C0001916",
+    "name": "Albinism",
+    "description": "Albinism (MEDDRA: C0001916)"
+  },
+  "48": {
+    "effect_id": 48,
+    "meddra_id": "C0001925",
+    "name": "Albuminuria",
+    "description": "Albuminuria (MEDDRA: C0001925)"
+  },
+  "49": {
+    "effect_id": 49,
+    "meddra_id": "C0001957",
+    "name": "Delirium Tremens",
+    "description": "Delirium Tremens (MEDDRA: C0001957)"
+  },
+  "50": {
+    "effect_id": 50,
+    "meddra_id": "C0001969",
+    "name": "Alcohol Poisoning",
+    "description": "Alcohol Poisoning (MEDDRA: C0001969)"
+  },
+  "51": {
+    "effect_id": 51,
+    "meddra_id": "C0001973",
+    "name": "Alcoholism",
+    "description": "Alcoholism (MEDDRA: C0001973)"
+  },
+  "52": {
+    "effect_id": 52,
+    "meddra_id": "C0002063",
+    "name": "Alkalosis",
+    "description": "Alkalosis (MEDDRA: C0002063)"
+  },
+  "53": {
+    "effect_id": 53,
+    "meddra_id": "C0002064",
+    "name": "Respiratory Alkalosis",
+    "description": "Respiratory Alkalosis (MEDDRA: C0002064)"
+  },
+  "54": {
+    "effect_id": 54,
+    "meddra_id": "C0002103",
+    "name": "Rhinitis Allergic",
+    "description": "Rhinitis Allergic (MEDDRA: C0002103)"
+  },
+  "55": {
+    "effect_id": 55,
+    "meddra_id": "C0002170",
+    "name": "Alopecia",
+    "description": "Alopecia (MEDDRA: C0002170)"
+  },
+  "56": {
+    "effect_id": 56,
+    "meddra_id": "C0002390",
+    "name": "Alveolitis Allergic",
+    "description": "Alveolitis Allergic (MEDDRA: C0002390)"
+  },
+  "57": {
+    "effect_id": 57,
+    "meddra_id": "C0002395",
+    "name": "Dementia Alzheimer's Type",
+    "description": "Dementia Alzheimer's Type (MEDDRA: C0002395)"
+  },
+  "58": {
+    "effect_id": 58,
+    "meddra_id": "C0002418",
+    "name": "Amblyopia",
+    "description": "Amblyopia (MEDDRA: C0002418)"
+  },
+  "59": {
+    "effect_id": 59,
+    "meddra_id": "C0002447",
+    "name": "Limb Reduction Defect",
+    "description": "Limb Reduction Defect (MEDDRA: C0002447)"
+  },
+  "60": {
+    "effect_id": 60,
+    "meddra_id": "C0002453",
+    "name": "Amenorrhoea",
+    "description": "Amenorrhoea (MEDDRA: C0002453)"
+  },
+  "61": {
+    "effect_id": 61,
+    "meddra_id": "C0002622",
+    "name": "Amnesia",
+    "description": "Amnesia (MEDDRA: C0002622)"
+  },
+  "62": {
+    "effect_id": 62,
+    "meddra_id": "C0002624",
+    "name": "Retrograde Amnesia",
+    "description": "Retrograde Amnesia (MEDDRA: C0002624)"
+  },
+  "63": {
+    "effect_id": 63,
+    "meddra_id": "C0002631",
+    "name": "Amniotic Cavity Infection",
+    "description": "Amniotic Cavity Infection (MEDDRA: C0002631)"
+  },
+  "64": {
+    "effect_id": 64,
+    "meddra_id": "C0002726",
+    "name": "Amyloidosis",
+    "description": "Amyloidosis (MEDDRA: C0002726)"
+  },
+  "65": {
+    "effect_id": 65,
+    "meddra_id": "C0002792",
+    "name": "Anaphylactic Shock",
+    "description": "Anaphylactic Shock (MEDDRA: C0002792)"
+  },
+  "66": {
+    "effect_id": 66,
+    "meddra_id": "C0002871",
+    "name": "Anaemia",
+    "description": "Anaemia (MEDDRA: C0002871)"
+  },
+  "67": {
+    "effect_id": 67,
+    "meddra_id": "C0002874",
+    "name": "Aplastic Anaemia",
+    "description": "Aplastic Anaemia (MEDDRA: C0002874)"
+  },
+  "68": {
+    "effect_id": 68,
+    "meddra_id": "C0002878",
+    "name": "Haemolytic Anaemia",
+    "description": "Haemolytic Anaemia (MEDDRA: C0002878)"
+  },
+  "69": {
+    "effect_id": 69,
+    "meddra_id": "C0002880",
+    "name": "Autoimmune Haemolytic Anaemia",
+    "description": "Autoimmune Haemolytic Anaemia (MEDDRA: C0002880)"
+  },
+  "70": {
+    "effect_id": 70,
+    "meddra_id": "C0002884",
+    "name": "Hypochromic Anaemia",
+    "description": "Hypochromic Anaemia (MEDDRA: C0002884)"
+  },
+  "71": {
+    "effect_id": 71,
+    "meddra_id": "C0002886",
+    "name": "Anaemia Macrocytic",
+    "description": "Anaemia Macrocytic (MEDDRA: C0002886)"
+  },
+  "72": {
+    "effect_id": 72,
+    "meddra_id": "C0002888",
+    "name": "Anaemia Megaloblastic",
+    "description": "Anaemia Megaloblastic (MEDDRA: C0002888)"
+  },
+  "73": {
+    "effect_id": 73,
+    "meddra_id": "C0002891",
+    "name": "Anaemia Neonatal",
+    "description": "Anaemia Neonatal (MEDDRA: C0002891)"
+  },
+  "74": {
+    "effect_id": 74,
+    "meddra_id": "C0002893",
+    "name": "Refractory Cytopenia With Unilineage Dysplasia",
+    "description": "Refractory Cytopenia With Unilineage Dysplasia (MEDDRA: C0002893)"
+  },
+  "75": {
+    "effect_id": 75,
+    "meddra_id": "C0002894",
+    "name": "Refractory Anaemia With An Excess Of Blasts",
+    "description": "Refractory Anaemia With An Excess Of Blasts (MEDDRA: C0002894)"
+  },
+  "76": {
+    "effect_id": 76,
+    "meddra_id": "C0002895",
+    "name": "Sickle Cell Anaemia",
+    "description": "Sickle Cell Anaemia (MEDDRA: C0002895)"
+  },
+  "77": {
+    "effect_id": 77,
+    "meddra_id": "C0002896",
+    "name": "Sideroblastic Anaemia",
+    "description": "Sideroblastic Anaemia (MEDDRA: C0002896)"
+  },
+  "78": {
+    "effect_id": 78,
+    "meddra_id": "C0002902",
+    "name": "Anencephaly",
+    "description": "Anencephaly (MEDDRA: C0002902)"
+  },
+  "79": {
+    "effect_id": 79,
+    "meddra_id": "C0002940",
+    "name": "Aneurysm",
+    "description": "Aneurysm (MEDDRA: C0002940)"
+  },
+  "80": {
+    "effect_id": 80,
+    "meddra_id": "C0002949",
+    "name": "Artery Dissection",
+    "description": "Artery Dissection (MEDDRA: C0002949)"
+  },
+  "81": {
+    "effect_id": 81,
+    "meddra_id": "C0002957",
+    "name": "Anger",
+    "description": "Anger (MEDDRA: C0002957)"
+  },
+  "82": {
+    "effect_id": 82,
+    "meddra_id": "C0002962",
+    "name": "Angina Pectoris",
+    "description": "Angina Pectoris (MEDDRA: C0002962)"
+  },
+  "83": {
+    "effect_id": 83,
+    "meddra_id": "C0002963",
+    "name": "Prinzmetal Angina",
+    "description": "Prinzmetal Angina (MEDDRA: C0002963)"
+  },
+  "84": {
+    "effect_id": 84,
+    "meddra_id": "C0002965",
+    "name": "Angina Unstable",
+    "description": "Angina Unstable (MEDDRA: C0002965)"
+  },
+  "85": {
+    "effect_id": 85,
+    "meddra_id": "C0002994",
+    "name": "Angioedema",
+    "description": "Angioedema (MEDDRA: C0002994)"
+  },
+  "86": {
+    "effect_id": 86,
+    "meddra_id": "C0003028",
+    "name": "Anhidrosis",
+    "description": "Anhidrosis (MEDDRA: C0003028)"
+  },
+  "87": {
+    "effect_id": 87,
+    "meddra_id": "C0003044",
+    "name": "Animal Bite",
+    "description": "Animal Bite (MEDDRA: C0003044)"
+  },
+  "88": {
+    "effect_id": 88,
+    "meddra_id": "C0003079",
+    "name": "Pupils Unequal",
+    "description": "Pupils Unequal (MEDDRA: C0003079)"
+  },
+  "89": {
+    "effect_id": 89,
+    "meddra_id": "C0003119",
+    "name": "Anophthalmos",
+    "description": "Anophthalmos (MEDDRA: C0003119)"
+  },
+  "90": {
+    "effect_id": 90,
+    "meddra_id": "C0003123",
+    "name": "Decreased Appetite",
+    "description": "Decreased Appetite (MEDDRA: C0003123)"
+  },
+  "91": {
+    "effect_id": 91,
+    "meddra_id": "C0003126",
+    "name": "Anosmia",
+    "description": "Anosmia (MEDDRA: C0003126)"
+  },
+  "92": {
+    "effect_id": 92,
+    "meddra_id": "C0003128",
+    "name": "Anovulatory Cycle",
+    "description": "Anovulatory Cycle (MEDDRA: C0003128)"
+  },
+  "93": {
+    "effect_id": 93,
+    "meddra_id": "C0003130",
+    "name": "Anoxia",
+    "description": "Anoxia (MEDDRA: C0003130)"
+  },
+  "94": {
+    "effect_id": 94,
+    "meddra_id": "C0003175",
+    "name": "Anthrax",
+    "description": "Anthrax (MEDDRA: C0003175)"
+  },
+  "95": {
+    "effect_id": 95,
+    "meddra_id": "C0003460",
+    "name": "Anuria",
+    "description": "Anuria (MEDDRA: C0003460)"
+  },
+  "96": {
+    "effect_id": 96,
+    "meddra_id": "C0003462",
+    "name": "Anorectal Disorder",
+    "description": "Anorectal Disorder (MEDDRA: C0003462)"
+  },
+  "97": {
+    "effect_id": 97,
+    "meddra_id": "C0003466",
+    "name": "Anal Atresia",
+    "description": "Anal Atresia (MEDDRA: C0003466)"
+  },
+  "98": {
+    "effect_id": 98,
+    "meddra_id": "C0003467",
+    "name": "Anxiety",
+    "description": "Anxiety (MEDDRA: C0003467)"
+  },
+  "99": {
+    "effect_id": 99,
+    "meddra_id": "C0003469",
+    "name": "Anxiety Disorder",
+    "description": "Anxiety Disorder (MEDDRA: C0003469)"
+  }
+}
